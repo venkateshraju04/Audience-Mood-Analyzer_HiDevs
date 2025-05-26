@@ -1,1 +1,8 @@
-# Add your project dependencies here
+streamlit
+praw
+cohere
+emoji
+nltk
+dotenv
+torch==2.1.2 
+transformers==4.35.2
