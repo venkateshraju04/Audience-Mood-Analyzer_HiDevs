@@ -15,7 +15,3 @@ REDDIT_SECRET_KEY="YOUR_REDDIT_SECRET_KEY"
 USER_AGENT="sentiment-analyzer by u/ username"
 COHERE_API="YOUR_COHERE_API" 
 ```
-
-Since it is a bit time consuming to get all APIs and secret keys, I have pushed the .env file also . Enjoy!
-
-Also added a ipynb file to be able to run in colab. uses ngrok for streamlit interface.
